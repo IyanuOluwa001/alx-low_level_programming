@@ -5,11 +5,11 @@
 /**
  * main - generate random vaid password
  *
- * eturn: Always 0
+ * Return: Always 0
  */
 int main(void)
 {
-	int pass[100]:
+	int pass[100];
 	int i, sum, n;
 
 	sum = 0;
@@ -29,5 +29,6 @@ int main(void)
 			break;
 		}
 	}
+
 	return (0);
 }
