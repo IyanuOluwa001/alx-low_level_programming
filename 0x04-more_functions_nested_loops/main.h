@@ -12,4 +12,5 @@ void print_square (int size);
 void print_triangle(int size);
 void print_most_numbers(void);
 int _putchar(char c);
+
 #endif
