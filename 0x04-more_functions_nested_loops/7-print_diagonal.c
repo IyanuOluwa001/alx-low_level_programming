@@ -4,9 +4,9 @@
  * print_diagonal - draws a diagonal line
  * @n: numbers of '\' to be printed
  */
-void print_diagonal(intn)
+void print_diagonal(int n)
 {
-	int x,y;
+	int x, y;
 
 	if (n <= 0)
 		_putchar('\n');
